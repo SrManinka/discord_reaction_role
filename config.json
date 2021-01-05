@@ -1,0 +1,8 @@
+{
+  "token": "your_bot_token",
+  "prefix": "!!",
+  "createRuleCommand":"create",
+  "cancelTime":"30000",
+  "cancelCommand1":"cancel",
+  "cancelCommand2":"c"
+}
